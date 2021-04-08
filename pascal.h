@@ -1,5 +1,6 @@
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS
+//this comment is added locally
 #include <stdio.h>
 #define MAX 20
 #define MIN 3
